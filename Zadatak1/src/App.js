@@ -8,7 +8,7 @@ import {
 function App() {
 	return (
 		<div>
-			<h1>Moja prva aplikacija</h1>
+			<h1>Moja prva aplikacija heh</h1>
 			<Komponenta1 />
 			<Komponenta2 />
 			<Komponenta3 />
